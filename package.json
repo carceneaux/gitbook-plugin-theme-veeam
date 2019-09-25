@@ -1,0 +1,38 @@
+{
+  "name": "gitbook-plugin-theme-veeam",
+  "version": "1.0.3",
+  "description": "GitBook custom theme for Veeam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carceneaux/gitbook-plugin-theme-veeam.git"
+  },
+  "keywords": [
+    "gitbook",
+    "theme",
+    "veeam",
+    "gitbook",
+    "plugin"
+  ],
+  "author": "Chris Arceneaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carceneaux/gitbook-plugin-theme-veeam/issues"
+  },
+  "homepage": "https://github.com/carceneaux/gitbook-plugin-theme-veeam#readme",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "gitbook": {
+    "properties": {
+      "langs": {
+        "type": "array",
+        "default": ["en"],
+        "title": "List of supported languages."
+      }
+    }
+  }
+}
