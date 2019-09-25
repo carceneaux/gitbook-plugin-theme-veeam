@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-theme-veeam",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "GitBook custom theme for Veeam",
   "main": "index.js",
   "scripts": {
